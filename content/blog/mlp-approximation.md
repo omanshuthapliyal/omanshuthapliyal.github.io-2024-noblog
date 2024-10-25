@@ -4,9 +4,9 @@ date: 2019-09-12T10:27:01-04:00
 draft: false
 katex: true
 tags: [ml, maths, analysis]
-links:
-    website: "https://omanshuthapliyal.github.io/"
-    alias : "blog/mlp-approximation/"
+# links:
+#     website: "https://omanshuthapliyal.github.io/"
+#     alias : "blog/mlp-approximation/"
 
 ---
 

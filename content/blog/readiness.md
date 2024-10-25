@@ -4,9 +4,9 @@ date: 2024-10-15T11:07:46-07:00
 draft: false
 katex: true
 tags: [controls, autonomy, ml, research]
-links:
-    website: "https://omanshuthapliyal.github.io/"
-    alias : "blog/readiness/"
+# links:
+#     website: "https://omanshuthapliyal.github.io/"
+#     alias : "blog/readiness/"
 
 
 ---

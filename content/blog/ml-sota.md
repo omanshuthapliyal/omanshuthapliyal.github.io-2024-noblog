@@ -4,9 +4,9 @@ date: 2019-08-18T22:36:00+05:30
 draft: false
 katex: true
 tags: [resource, ml]
-links:
-    website: "https://omanshuthapliyal.github.io/"
-    alias : "blog/ml-sota/"
+# links:
+#     website: "https://omanshuthapliyal.github.io/"
+#     alias : "blog/ml-sota/"
 
 ---
 

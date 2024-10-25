@@ -3,9 +3,9 @@ title: "Real Analysis Notes"
 date: 2019-08-24T23:38:20+05:30
 draft: false
 tags: [maths, analysis]
-links:
-    website: "https://omanshuthapliyal.github.io/"
-    alias : "blog/my-real-notes/"
+# links:
+#     website: "https://omanshuthapliyal.github.io/"
+    # alias : "blog/my-real-notes/"
 
 ---
 

@@ -4,9 +4,9 @@ date: 2022-03-16T12:32:31-04:00
 draft: false
 katex: true
 tags: [controls, research]
-links:
-    website: "https://omanshuthapliyal.github.io/"
-    alias : "blog/data-driven-safety/"
+# links:
+#     website: "https://omanshuthapliyal.github.io/"
+#     alias : "blog/data-driven-safety/"
     
 ---
 This is my attempt to try to motivate and justify why I am studying what I study, and to try to justify the title of my dissertation.
