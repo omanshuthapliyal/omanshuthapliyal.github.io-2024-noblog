@@ -5,7 +5,8 @@ draft: false
 katex: true
 tags: [controls]
 links:
-    alias : "/blog/split/"
+    website: "https://omanshuthapliyal.github.io/"
+    alias : "blog/split/"
 
 ---
 I often wonder why the "cutting edge" research that we read about in the foremost scientific journals & conferences in Control Systems are never applied in the industry.

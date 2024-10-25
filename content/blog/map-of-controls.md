@@ -6,7 +6,8 @@ draft: true
 katex: true
 tags: [controls, autonomy, research]
 links:
-    alias : "/blog/readiness/"
+    website: "https://omanshuthapliyal.github.io/"
+    alias : "blog/readiness/"
 
 ---
 

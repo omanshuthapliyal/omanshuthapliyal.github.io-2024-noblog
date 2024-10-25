@@ -4,7 +4,8 @@ date: 2019-08-24T23:38:20+05:30
 draft: false
 tags: [maths, analysis]
 links:
-    alias : "/blog/my-real-notes/"
+    website: "https://omanshuthapliyal.github.io/"
+    alias : "blog/my-real-notes/"
 
 ---
 

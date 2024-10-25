@@ -6,7 +6,8 @@ draft: true
 katex: true
 tags: [math, analysis, research, statistics]
 links:
-    alias : "/blog/gaussians-everywhere/"
+    website: "https://omanshuthapliyal.github.io/"
+    alias : "blog/gaussians-everywhere/"
 
 ---
 

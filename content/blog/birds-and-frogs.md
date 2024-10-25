@@ -5,7 +5,8 @@ draft: false
 katex: true
 tags: [research]
 links:
-    alias : "/blog/birds-and-frogs/"
+    website: "https://omanshuthapliyal.github.io/"
+    alias : "blog/birds-and-frogs/"
 
 ---
 

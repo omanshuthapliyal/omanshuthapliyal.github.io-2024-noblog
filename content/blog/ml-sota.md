@@ -5,7 +5,8 @@ draft: false
 katex: true
 tags: [resource, ml]
 links:
-    alias : "/blog/ml-sota/"
+    website: "https://omanshuthapliyal.github.io/"
+    alias : "blog/ml-sota/"
 
 ---
 

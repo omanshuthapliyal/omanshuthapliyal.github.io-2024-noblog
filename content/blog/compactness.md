@@ -5,7 +5,8 @@ draft: false
 katex: true
 tags: [maths, real analysis, compactness]
 links:
-    alias : "/blog/compactness/"
+    website: "https://omanshuthapliyal.github.io/"
+    alias : "blog/compactness/"
     
 ---
 
