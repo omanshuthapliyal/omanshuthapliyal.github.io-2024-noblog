@@ -5,9 +5,9 @@ draft: true
 
 katex: true
 tags: [math, analysis, research, statistics]
-aliases : [
-    "/blog/posts/gaussians-everywhere/"
-]
+links:
+    alias : "/blog/posts/gaussians-everywhere/"
+    
 ---
 
 ...

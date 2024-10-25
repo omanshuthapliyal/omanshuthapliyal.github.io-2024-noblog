@@ -4,9 +4,9 @@ date: 2019-09-12T10:27:01-04:00
 draft: false
 katex: true
 tags: [ml, maths, analysis]
-aliases : [
-    "/blog/posts/mlp-approximation/"
-]
+links:
+    alias : "/blog/posts/mlp-approximation/"
+
 ---
 
 Almost always we hear about classification or machine learning problems, the go-to methods to solve the problem are neural networks, or multi-layered percetrons (MLP).

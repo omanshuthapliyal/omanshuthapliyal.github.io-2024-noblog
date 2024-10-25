@@ -5,9 +5,9 @@ draft: true
 
 katex: true
 tags: [controls, autonomy, research]
-aliases : [
-    "/blog/posts/readiness/"
-]
+links:
+    alias : "/blog/posts/readiness/"
+
 ---
 
 This post has been in the making since 5 years, when I was discussing with a fellow grad researcher about various optimization techniques & problems, and their interreationships. 

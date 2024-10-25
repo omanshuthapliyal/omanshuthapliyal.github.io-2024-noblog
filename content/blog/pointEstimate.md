@@ -4,9 +4,9 @@ date: 2019-07-24T01:34:25+05:30
 draft: false
 katex: true
 tags: [maths, statistics]
-aliases : [
-    "/blog/posts/pointestimate/"
-]
+links:
+    alias : "/blog/posts/pointestimate/"
+
 ---
 It might seem out of place that in the world of big data, finding a singular parameter's estimate could be interesting. Quite the contrary -- **point estimation problems** are one of the most ubiquitous parametric estimation problems that arise whether you are doing your Stat Inference 101 assignments, or dealing with $$10^8$$ rows in a parquet file. And so, I thought of making this post to look further into the point estimation problems, and when might one want to use which method.
 

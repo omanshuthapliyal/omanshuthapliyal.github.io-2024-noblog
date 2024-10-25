@@ -4,9 +4,9 @@ date: 2019-09-16T12:32:31-04:00
 draft: false
 katex: true
 tags: [controls]
-aliases : [
-    "/blog/posts/split/"
-]
+links:
+    alias : "/blog/posts/split/"
+
 ---
 I often wonder why the "cutting edge" research that we read about in the foremost scientific journals & conferences in Control Systems are never applied in the industry.
 Because whenever we read/write papers, Section-I always tries to ground itself to industry and/or practical applications. However, it's pretty well known that a majority of the controllers used in the industry are still tuned PIDs.

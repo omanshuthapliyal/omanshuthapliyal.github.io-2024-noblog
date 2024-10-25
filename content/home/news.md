@@ -11,4 +11,4 @@ section_settings:
     subtitle: 'Whatever cool things I am thinking of'
 ---
 
-blog/_index.md
+home/news.md

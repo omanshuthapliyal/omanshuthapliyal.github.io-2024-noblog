@@ -3,9 +3,9 @@ title: "Instrumentals v/s Vocal Music"
 date: 2019-07-28T16:02:49-04:00
 draft: false
 tags: [music, art, abstract]
-aliases : [
-    "/blog/posts/instrumental/"
-]
+links:
+    alias : "/blog/posts/instrumental/"
+
 ---
 I often talk to friends about music and musical preferences. This post is inspired by one such theme which often finds its way in most of these conversations: instrumental music v/s vocal music.
 Or more precisely, *why listen to instrumental, or plain music, when you can have vocals accompanying the music*.

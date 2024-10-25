@@ -4,9 +4,9 @@ date: 2024-10-15T11:07:46-07:00
 draft: false
 katex: true
 tags: [controls, autonomy, ml, research]
-aliases : [
-    "/blog/posts/readiness/"
-]
+links:
+    alias : "/blog/posts/readiness/"
+
 
 ---
 Recent news of the SpaceX catching its Starship Super Heavy booster[^1] is quite discussed and marveled upon in the media, and rightly so.

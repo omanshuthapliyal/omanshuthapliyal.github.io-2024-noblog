@@ -4,9 +4,9 @@ date: 2019-08-15T01:34:25+05:30
 draft: false
 katex: true
 tags: [maths, real analysis, compactness]
-aliases : [
-    "/blog/posts/compactness2/"
-]
+links:
+    alias : "/blog/posts/compactness2/"
+
 ---
 
 In my [last post](/blog/compactness) I touched upon the intuition behind topological compactness. We as engineers often hear about the word 'compact' as a soft gatekeeping tool from doing serious mathematics. In this post we see why the understanding is very important for doing any mathematics, *especially* as engineers.
