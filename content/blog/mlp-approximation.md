@@ -5,7 +5,7 @@ draft: false
 katex: true
 tags: [ml, maths, analysis]
 links:
-    alias : "/blog/posts/mlp-approximation/"
+    alias : "/blog/mlp-approximation/"
 
 ---
 

@@ -5,7 +5,7 @@ draft: false
 katex: true
 tags: [maths, real analysis, compactness]
 links:
-    alias : "/blog/posts/compactness/"
+    alias : "/blog/compactness/"
     
 ---
 

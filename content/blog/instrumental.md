@@ -4,7 +4,7 @@ date: 2019-07-28T16:02:49-04:00
 draft: false
 tags: [music, art, abstract]
 links:
-    alias : "/blog/posts/instrumental/"
+    alias : "/blog/instrumental/"
 
 ---
 I often talk to friends about music and musical preferences. This post is inspired by one such theme which often finds its way in most of these conversations: instrumental music v/s vocal music.

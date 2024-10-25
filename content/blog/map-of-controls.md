@@ -6,7 +6,7 @@ draft: true
 katex: true
 tags: [controls, autonomy, research]
 links:
-    alias : "/blog/posts/readiness/"
+    alias : "/blog/readiness/"
 
 ---
 

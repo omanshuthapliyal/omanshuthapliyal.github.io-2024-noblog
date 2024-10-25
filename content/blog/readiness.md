@@ -5,7 +5,7 @@ draft: false
 katex: true
 tags: [controls, autonomy, ml, research]
 links:
-    alias : "/blog/posts/readiness/"
+    alias : "/blog/readiness/"
 
 
 ---

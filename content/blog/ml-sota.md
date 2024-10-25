@@ -5,7 +5,7 @@ draft: false
 katex: true
 tags: [resource, ml]
 links:
-    alias : "/blog/posts/ml-sota/"
+    alias : "/blog/ml-sota/"
 
 ---
 

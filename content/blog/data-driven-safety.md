@@ -5,7 +5,7 @@ draft: false
 katex: true
 tags: [controls, research]
 links:
-    alias : "/blog/posts/data-driven-safety/"
+    alias : "/blog/data-driven-safety/"
     
 ---
 This is my attempt to try to motivate and justify why I am studying what I study, and to try to justify the title of my dissertation.
