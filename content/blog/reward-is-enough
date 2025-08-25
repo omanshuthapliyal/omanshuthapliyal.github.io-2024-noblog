@@ -33,9 +33,9 @@ However, this extension is non-trivial. mVN does not offer structures on policie
 
 RL problems are often more complicated than simple controlled Markov processes. One way in which RL differs is that, parts of your trajectory might need learning, and other parts might be know, so no optimization takes place of parts of the trajectory. Here, a final tweak to memorylessness is presented as **additivity** property in policies. It is difficult to present additivity as a sequential choice among $\{apple, banana, coconut\}$, but I will make an attempt. Suppose a sequential policy that is a mixture of $apple, banana$ strategy is preferred over a sequential policy that is a mixture of $coconut, durian$ in a trajectory $T_1$ where policy choices $apple, coconut$ start at state $s$ over $T_1$. Then, the same mixture preference holds over other trajectories $T_2$ leading to $s$ where policy choices $apple, coconut$ start at state $s$ (and vice versa -- it is an if and only if relation). More importantly for us, a consequence of additivity is that the known parts of a trajectory can be ignored, and the unknown parts optimized independently. If this reminds you of the Bellman optimality principle, then additivity (in conjunction with all other properties above), allow us to apply dynamic programming to RL, and allows agents to act optimally according to some expected cumulative sum of reward function in Markov decision processes. 
 
-[^1] Bowling, Michael, et al. "[Settling the Reward Hypothesis](https://arxiv.org/abs/2212.10420)", *International Conference on Machine Learning*. PMLR, 2023. 
-[^2] Shakerinava, Mehran, and Siamak Ravanbakhsh. "[Utility theory for sequential decision making](https://arxiv.org/abs/2206.13637)." *International Conference on Machine Learning*. PMLR, 2022.
-[^3] Richard Sutton, [The Reward Hypothesis](http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/rewardhypothesis.html)
-[^4] [Theory of Games and Economic Behavior](https://press.princeton.edu/books/paperback/9780691130613/theory-of-games-and-economic-behavior)
+[^1]: Bowling, Michael, et al. "[Settling the Reward Hypothesis](https://arxiv.org/abs/2212.10420)", *International Conference on Machine Learning*. PMLR, 2023. 
+[^2]: Shakerinava, Mehran, and Siamak Ravanbakhsh. "[Utility theory for sequential decision making](https://arxiv.org/abs/2206.13637)." *International Conference on Machine Learning*. PMLR, 2022.
+[^3]: Richard Sutton, [The Reward Hypothesis](http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/rewardhypothesis.html)
+[^4]: [Theory of Games and Economic Behavior](https://press.princeton.edu/books/paperback/9780691130613/theory-of-games-and-economic-behavior)
 
 > Written with [StackEdit](https://stackedit.io/).
