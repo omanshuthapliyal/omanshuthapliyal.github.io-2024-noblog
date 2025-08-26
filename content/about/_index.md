@@ -17,7 +17,7 @@ socials:
     google_scholar: "citations?user=UJOzb5MAAAAJ"
 
 interests:
-    - Safe Autonomy 
+    - Safe Autonomy & Safe RL
     - Data-driven Controls
     - Distributed & Networked Control Systems
     - System-of-Systems Engineering
@@ -25,12 +25,12 @@ interests:
 affiliations:
     - affiliation:
         title: "Urban Air Mobility Researcher"
-        name: "Big Data Analytics & Solutions Lab,\n Hitachi America Ltd."
+        name: "Strategic Data Solutions Lab,\n Hitachi America Ltd."
         #email: "[first].[last]@hal.hitachi.com"
     - affiliation:
         title: "Ph.D."
         name: "Purdue University"
-        email: "[first].[last]@hal.hitachi.com"
+        email: "[last].[first]@gmail.com"
     
 academia:
     - course:
