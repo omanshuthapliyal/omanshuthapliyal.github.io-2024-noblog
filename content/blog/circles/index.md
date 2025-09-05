@@ -3,7 +3,7 @@ title: "On Eigenvalues, Homotopy, and Root Loci"
 date: 2025-09-05T11:57:21-07:00
 draft: false
 katex: true
-tags: [analysis, maths, linear agebra]
+tags: ["analysis", "maths", "linear_algebra"]
 # links:
 #     website: "https://omanshuthapliyal.github.io/"
 #     alias : "blog/circles/"

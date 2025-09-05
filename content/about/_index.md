@@ -25,11 +25,11 @@ affiliations:
     - affiliation:
         title: "Urban Air Mobility Researcher"
         name: "Strategic Data Solutions Lab,\n Hitachi America Ltd."
-        #email: "[first].[last]@hal.hitachi.com"
+        #email: "[firstname].[lastname]@hal.hitachi.com"
     - affiliation:
         title: "Ph.D."
         name: "Purdue University"
-        email: "[last].[first]@gmail.com"
+        email: "[lastname].[firstname]@gmail.com"
     
 academia:
     - course:
