@@ -21,7 +21,7 @@ A = \begin{pmatrix}
 \end{pmatrix} $$
 
 Is the matrix positive-definite?
-The problem itself is a dramatization of how [my professor](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id) would ask us to write arbitrary real matrices and quickly determine its positive-definiteness (most of the times) as a trick, seemingly like in-class wizardry!
+The problem itself is a dramatization of how [my professor](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=1339) would ask us to write arbitrary real matrices and quickly determine its positive-definiteness (most of the times) as a trick, seemingly like in-class wizardry!
 
 While this looks like a standard assignment problem for most linear algebra classes, there is something interesting going on here and that eigenvalue localization problems are at the core of many engineering problems, control theory in particular. Linear system stability, linear system control, equilibrium behavior, and system decomposition relies heavily on placing eigenvalues of matrices in some regions of the complex plane. While this matrix at hand looks a little daunting, in some cases we can localize eigenvalues of matrices using good ol' *Geršgorin's discs* (or circles).
 
