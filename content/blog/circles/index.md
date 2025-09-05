@@ -34,7 +34,8 @@ If we let $$p_t(z)=\mathrm{det}(zI-A)$$ be the characteristic polynomial of the 
 This neat complex analysis trick can help understand an alternative proof of Geršgorin's theorem, which is otherwise a straightforward proof in linear algebra.
 
 However, in constructing a homotopy, we saw something more important: Geršgorin's discs provide bounds for eigenvalues for the perturbed matrix $$A(t) = D + tE$$. In fact, one such realization for varying values of $$t$$ is shown in the plot below.
-
+  
+  
 {{< scale src="gersh.jpg" alt="Geršgorin's discs" scale="60" >}}
 
 We can see that as we vary $$t$$, we are essentially observing the locus of eigenvalues of $$A(t)$$, all of them bounded by the Geršgorin's discs. This immediately reminds one of the roots of a different polynomial: $$p_K(z) = D(s) + KN(s)$$. This is the **root locus** of an open-loop transfer function $$N(s)/D(s)$$ with closed-loop feedback gain $$K$$. That is, the locus of all roots of $$p_K(s)$$ as $$K$$ varies unbounded. While this is not a homotopy at all, Geršgorin's discs play a role similar to the root locus: they bound and structure the possible trajectories, though they don’t give the exact path. While the discs provide set-based boundaries, the root locus provides geometric trajectories of the poles.
