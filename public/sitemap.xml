@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://omanshuthapliyal.github.io/tags/analysis/</loc>
+    <lastmod>2025-09-05T11:57:21-07:00</lastmod>
+  </url><url>
     <loc>https://omanshuthapliyal.github.io/blog/</loc>
     <lastmod>2025-09-05T11:57:21-07:00</lastmod>
   </url><url>
-    <loc>https://omanshuthapliyal.github.io/tags/ml/</loc>
+    <loc>https://omanshuthapliyal.github.io/tags/linear-agebra/</loc>
+    <lastmod>2025-09-05T11:57:21-07:00</lastmod>
+  </url><url>
+    <loc>https://omanshuthapliyal.github.io/tags/maths/</loc>
     <lastmod>2025-09-05T11:57:21-07:00</lastmod>
   </url><url>
     <loc>https://omanshuthapliyal.github.io/</loc>
@@ -14,16 +20,19 @@
     <loc>https://omanshuthapliyal.github.io/blog/circles/</loc>
     <lastmod>2025-09-05T11:57:21-07:00</lastmod>
   </url><url>
-    <loc>https://omanshuthapliyal.github.io/tags/research/</loc>
-    <lastmod>2025-09-05T11:57:21-07:00</lastmod>
-  </url><url>
-    <loc>https://omanshuthapliyal.github.io/tags/rl/</loc>
-    <lastmod>2025-09-05T11:57:21-07:00</lastmod>
-  </url><url>
     <loc>https://omanshuthapliyal.github.io/tags/</loc>
     <lastmod>2025-09-05T11:57:21-07:00</lastmod>
   </url><url>
+    <loc>https://omanshuthapliyal.github.io/tags/ml/</loc>
+    <lastmod>2025-08-13T11:07:46-07:00</lastmod>
+  </url><url>
+    <loc>https://omanshuthapliyal.github.io/tags/research/</loc>
+    <lastmod>2025-08-13T11:07:46-07:00</lastmod>
+  </url><url>
     <loc>https://omanshuthapliyal.github.io/blog/reward-is-enough/</loc>
+    <lastmod>2025-08-13T11:07:46-07:00</lastmod>
+  </url><url>
+    <loc>https://omanshuthapliyal.github.io/tags/rl/</loc>
     <lastmod>2025-08-13T11:07:46-07:00</lastmod>
   </url><url>
     <loc>https://omanshuthapliyal.github.io/tags/autonomy/</loc>
@@ -43,12 +52,6 @@
   </url><url>
     <loc>https://omanshuthapliyal.github.io/blog/split/</loc>
     <lastmod>2019-09-16T12:32:31-04:00</lastmod>
-  </url><url>
-    <loc>https://omanshuthapliyal.github.io/tags/analysis/</loc>
-    <lastmod>2019-09-12T10:27:01-04:00</lastmod>
-  </url><url>
-    <loc>https://omanshuthapliyal.github.io/tags/maths/</loc>
-    <lastmod>2019-09-12T10:27:01-04:00</lastmod>
   </url><url>
     <loc>https://omanshuthapliyal.github.io/blog/mlp-approximation/</loc>
     <lastmod>2019-09-12T10:27:01-04:00</lastmod>
