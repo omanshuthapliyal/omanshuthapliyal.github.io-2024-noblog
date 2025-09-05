@@ -2,8 +2,7 @@
 title: "about"
 date: 2020-10-20T17:51:47+03:30
 draft: false
-headless: true
-
+katex: true
 full_name: "Omanshu Thapliyal"
 profile_picture: "profile.jpg"
 # cv: "cv.pdf"

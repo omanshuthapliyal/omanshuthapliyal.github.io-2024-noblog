@@ -92,7 +92,7 @@ We do so by usinga single hidden layer activated by ReLUs. That is, $$y(x)=\sum^
 
 <a href="/mlp-approximation/relus.png">as shown</a>.</p>
 <p>Note that if we choose $$\varphi_1=a$$ and $$\varphi_k=b$$ for some $$k$$ that we would determine later, the sum of the activation functions is essentially of a piecewise linear on the interval $$[a,b]$$ where $$y(a)=f(a)$$ and $$y(b)=f(b)$$by designing the $$b_j$$&rsquo;s appropriately.
-That is, now we have $$k-$$segments of piecewise linear functions, for each of which, we still have appropriate flexibility to choose the slope and height from the x-axis by manipulating $$\w_j$$&rsquo;s and $$b_j$$&rsquo;s.
+That is, now we have $$k-$$segments of piecewise linear functions, for each of which, we still have appropriate flexibility to choose the slope and height from the x-axis by manipulating $$w_j$$&rsquo;s and $$b_j$$&rsquo;s.
 The end result would be a 
 
 <a href="/mlp-approximation/approx.png">piecewise linear function with $$k-$$ segments on $$[a,b]$$</a>. Recall that we can still manipulate individual segments to obtain an arbitrary level of accuracy, if we keep making $$k$$ large.

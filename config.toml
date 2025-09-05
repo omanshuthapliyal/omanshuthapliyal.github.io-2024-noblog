@@ -1,3 +1,4 @@
+# ignoreFiles = ["\\.qmd$", "\\.ipynb$"]
 baseURL = "https://omanshuthapliyal.github.io/"
 
 # set your your own ga token here.
@@ -23,6 +24,7 @@ pagination.pagerSize = 5
   startLevel = 1
 
   [markup.goldmark]
+#  unsafe = true
     [markup.goldmark.extensions]
       [markup.goldmark.extensions.passthrough]
         enable = true
