@@ -272,3 +272,42 @@ h2 code {
 .read_more {
     margin-top: 1%;
 }
+
+/* Update the existing .share-buttons rule */
+.share-buttons {
+  margin-top: 2rem;
+  margin-top: 3rem;
+  display: flex;
+  gap: 1rem;
+  /* Center the share buttons */
+  justify-content: center;
+}
+
+/* Update the existing .share-buttons a rule to handle text and icon */
+.share-buttons a {
+  display: inline-flex; /* Use inline-flex to align text and icon */
+  align-items: center; /* Center the content vertically */
+  padding: 0 1rem; /* Add padding to the button */
+  border: 1px solid #ddd;
+  border-radius: 50px; /* Use a larger value for pill shape */
+  color: #333;
+  text-decoration: none; /* Remove underline from the link */
+  transition: all 0.2s ease-in-out;
+}
+
+/* Style the text inside the link */
+.share-buttons a span {
+  margin-right: 0.5rem; /* Add space between text and icon */
+  font-size: 1rem; /* Adjust font size as needed */
+}
+
+/* Style the SVG icon */
+.share-buttons svg {
+  stroke-width: 2;
+  width: 20px;
+  height: 20px;
+}
+
+.share-buttons a:hover {
+  background-color: #f5f5f5;
+}
