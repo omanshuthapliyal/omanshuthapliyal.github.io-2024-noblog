@@ -83,6 +83,7 @@ This has been a very standard (non-trivial) problem of system identification and
 Clearly, transformer self-attention is very closely related to state-space modeling commonly used in control systems. So it should be no surprise that there are state-space methods that are now finding use, and in some cases replacing transformer models :) [^3] [^4] 
 
 Perhaps that is a teaser for another post on state-space models to follow!
+Meanwhile, a much better introduction to transformers from scratch can be found here [^5]. 
 
 *> Written with [StackEdit](https://stackedit.io/).*
 
@@ -90,3 +91,4 @@ Perhaps that is a teaser for another post on state-space models to follow!
 [^2]: https://github.com/omanshuthapliyal/blog-posts_accompanying-code/blob/main/Blog_post_transformer.ipynb
 [^3]: Gu, Albert, and Tri Dao. "Mamba: Linear-time sequence modeling with selective state spaces." arXiv preprint arXiv:2312.00752 (2023).
 [^4]: Somvanshi, Shriyank, et al. "From S4 to Mamba: A Comprehensive Survey on Structured State Space Models." arXiv preprint arXiv:2503.18970 (2025).
+[^5]: https://jalammar.github.io/illustrated-transformer/

@@ -13,7 +13,7 @@
       <link>http://localhost:1313/blog/transformers/</link>
       <pubDate>Sat, 27 Sep 2025 11:57:21 -0700</pubDate>
       <guid>http://localhost:1313/blog/transformers/</guid>
-      <description>&lt;p&gt;Transformer models have captivated a lot of AI research in most of the past decade, and in this post my goal is to make them seem more interesting to controls people, who have much to contribute to the field. I will be making gross generalizations to draw such entry points. At least, I found transformer models more interesting after finding a few parallels in dynamical systems &amp;amp; controls &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. This post attempts to explore those parallels.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Transformer models have captivated a lot of AI research in most of the past decade, and in this post my goal is to make them seem more interesting to controls people, who have much to contribute to the field. I will be making gross generalizations to draw such entry points. At least, I found transformer models more interesting after finding a few parallels in dynamical systems &amp;amp; controls &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. A much, much better introduction to transformers can be found here &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. This post attempts to explore those parallels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Technology Readiness Levels of AI methods</title>
