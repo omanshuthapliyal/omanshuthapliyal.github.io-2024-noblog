@@ -1,5 +1,5 @@
 ---
-title: "State Space Models: How control theory can echo machine learning"
+title: "State Space Models: How Control Theory can echo Machine Learning"
 date: 2025-10-06T18:57:21-07:00
 draft: false
 katex: true
