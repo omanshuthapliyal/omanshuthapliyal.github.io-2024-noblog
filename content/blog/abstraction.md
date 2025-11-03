@@ -1,0 +1,38 @@
+---
+title: "The Role of Abstraction"
+date: 2025-10-31T11:57:21-07:00
+draft: false
+katex: true
+tags: ["abstract", "art"]
+# links:
+#     website: "https://omanshuthapliyal.github.io/"
+#     alias : "blog/abstraction/"
+
+---
+
+There's this common joke when studying linear algebra that goes like this. 
+A student asks the teacher how do you visualize 4-dimensional spaces? To which the teacher replies "Oh, I just visualize an $$n$$-dimensional space, and let $$n$$ go to 4." I read it a while back, and while it wasn't particularly funny, I kept coming back to it as it has some kernel of lived, empirical truth. 
+
+Much of what we learn, rather much of what we expect, when enrolling into engineering courses is to get elbow deep into physical problems and "making things". To this end, this causes some friction between incoming engineering students' expectations from the curriculum, and the actual stuff on offer. I was no different as an undergrad student, but in hindsight I realized that much of what we teach students is "the art of solving problems", while they are wanting to learn to solve specific instances of problems. And the leap from learning to *solve a problem* to *how to solve problems* is a nontrivial one. While courses aim to help understand **abstraction** of concepts, the instinct (at least initially) is to apply these concepts. While this deadlock often dissuades people from higher learning in mathematics, indeed, much of what it takes transitioning from an engineer into doing research _in_ engineering is this abstraction. 
+
+If Physics is the language of engineering, then Mathematics provides it grammar, and so much of graduate studies focus on training the muscle of abstraction more than anything else.  Eugenia Cheng notes in [her book](https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657) that "abstraction is the process of deciding on some details to ignore in order to ensure that our logic works perfectly". Much of doing research is the same -- abstracting problem settings to figure out slightly more general purpose solutions. This is an important process of figuring out how & why, that almost always goes via an appreciation for abstraction.
+
+For instance, let us look at how do we describe objects in motion. We try to do so all the way from high school, into graduate degree programs. But why? 
+We first study Newtonian mechanics that concerns with particles and forces: how does the ball move when you push it with your hand? Newton's Laws are a geometric description of describing how objects accelerate when subjected to external forces. Since the underlying descriptions are positions in some Cartesian frames, Newtonian mechanics ends up describing objects in the form of second-order ordinary differential equations (ODEs). This provides a cause-effect (motion-force) description of nature, which Newton derives in a very geometric manner (see pg. 83 onwards for Newton's original geometric interpretation of his Laws [^1]). However, in the following century, French mathematicians -- Legendre, Lagrange, Poisson, Laplace, d'Alembert -- set out on the task of using generalized mathematical tools and making the "geometric" more "analytical". This gave us the Lagrangian view of mechanics: which formalizes systems and their associated energies using Euler-Lagrange equations via principle of least action. Essentially, system trajectories are now not necessarily geometric, but in generalized coordinates described as solutions of optimizing system behavior over time. The associated Lagrangian equations are still second-order ODEs, but remove coordinate dependent vector forces that are now captured via energy functions. 
+
+Subsequently, Hamiltonian mechanics is a description of the entire system's energy and keeps a track of the ball's momentum as it moves at every point. Describing systems in terms of their momenta instead of positions or velocities using its 'Hamiltonian in the phase space'. The resulting equations are a pair of first-order ODEs with positions and momenta as the describing variables (instead of generalized coordinates in the Lagrangian, and vectors in Cartesian frames in Newtonian mechanics). 
+
+This abstraction is not just for abstraction's sake! It cannot be emphasized enough that the gradual introduction of mathematical formalism from Newton to Hamilton is not just to make students' lives difficult, but rather to tease out more interesting properties from dynamical systems, and making more general settings where we can talk about more general 'systems' using the same settings. Newton describes what happens when you push the ball, Lagrangian framework describes the ball's motion as trajectories that extremize total energy behavior over time, and Hamiltonian answers *what properties are conserved* in the ball-system as its geometric properties in the phase space. The Lagrangian abstraction allowed for constructing Lorentz invariant theories -- thereby directly forming the basis for relativistic mechanics. And the Hamiltonian abstraction allowed for a natural bridge into quantum mechanics via operator algebras. 
+
+In my opinion, it is essential to keep abstracting particular instances as a part of the scientific method. And this **power of abstraction** is the single most important tool your toolkit -- one that practitioners can at times think of as unnecessary mathematical mumbo jumbo or 'formalism for formalism's sake'. It is my belief that it is to the contrary -- and that good engineers should not be afraid of mathematical generalizations over hyper-particular instances of 'real' problems. This way we can learn *how to solve problems* and then later use it to naturally solve *the particular one* at hand -- thereby letting $$n$$ go to 4.
+
+---
+##### *Afterword*
+This post is my musing on my current readings of Leonard Susskind's Theoretical Minimum lectures, and Eugenia Cheng's, the Joy of Abstraction [^2].  
+While the internet lately is filled with geometric interpretations of physical laws, geometric interpretations of linear algebra, matrices as tables, deep neural networks as matrix manipulations, etc. Physical intuition and geometric interpretations can only take us so far. It does seem that at times it is indeed easier to deal with mathematically abstract objects, and not worry about visual or geometric interpretations. 
+Susskind argues in his lectures that nobody can visualize 4-dimensional spaces and anyone who tells you otherwise is lying. And so the joy of abstraction is to not generalize or somehow "train" your mind to visualize 4-D, but to internalize the syntaxes and internally consistent grammar/rules of what it would look like if our properties under consideration were to live in $$n$$-dimensions.
+
+[^1]: https://redlightrobber.com/red/links_pdf/Isaac-Newton-Principia-English-1846.pdf
+[^2]: Cheng, Eugenia. _The joy of abstraction: An exploration of math, category theory, and life_. Cambridge University Press, 2022.
+
+> *Written with [StackEdit](https://stackedit.io/).*
