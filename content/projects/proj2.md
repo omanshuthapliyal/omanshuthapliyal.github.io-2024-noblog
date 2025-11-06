@@ -1,5 +1,5 @@
 ---
-title: "Consensus based tracking & state estimation for networked control systems"
+title: "Consensus-based Tracking & State Estimation for Networked Control Systems"
 
 date: "2017-12-31"
 
